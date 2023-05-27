@@ -1,4 +1,4 @@
-# shopManagement
+# Shop Management
 Shop management system is a program made to help
 employees to manage tasks related to stock, inventory
 of items, and creating daily and monthly earnings
